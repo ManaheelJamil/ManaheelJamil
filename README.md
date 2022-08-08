@@ -1,5 +1,4 @@
-
-<img align="center" width="1100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXfX7QEFTGW2ChG_mn_uw6-vpIHBp94q4KDw&usqp=CAU">
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXfX7QEFTGW2ChG_mn_uw6-vpIHBp94q4KDw&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Manaheel Jamil</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBT9rAF0sZcEFEs9AFc0SlgUoomKeUZ87OsA&usqp=CAU">
@@ -25,4 +24,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manaheeljamil&show_icons=true&locale=en&layout=compact" alt="manaheeljamil" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manaheeljamil&show_icons=true&locale=en" alt="manaheeljamil" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manaheeljamil&" alt="manaheeljamil" /></p>
+
 
