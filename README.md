@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **manaheeljamil20@gmail.com**
 
-- 📄 Know about my experiences [Fresher](Fresher)
+- 📄 Know about my experiences [1 Year Experience](1 Year Experience)
 
 - ⚡ Fun fact **I am Reserved person.**
 
