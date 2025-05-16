@@ -19,8 +19,7 @@
 <a><img align="center"  width="40" height="40" src="https://static.djangoproject.com/img/logos/django-logo-positive.png"/></a>
 <a><img align="center"  width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"/></a>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manaheeljamil&show_icons=true&locale=en" alt="manaheeljamil" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manaheeljamil&" alt="manaheeljamil" /></p>
+<a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manaheeljamil&show_icons=true&locale=en" alt="manaheeljamil" /></a>
+<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manaheeljamil&" alt="manaheeljamil" /></a>
 
 
