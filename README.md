@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **manaheeljamil20@gmail.com**
 
-- 📄 Know about my experiences [2 Year Experience](2 Year Experience)
+- 📄 I have 2 Years of Experience
 
 - ⚡ Fun fact **I am Reserved person.**
 
