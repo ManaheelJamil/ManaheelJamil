@@ -1,6 +1,4 @@
 <img align="center" width="1100" src="https://media.licdn.com/dms/image/v2/D4D16AQFkbJ8EKujxMg/profile-displaybackgroundimage-shrink_350_1400/B4DZbT8bYoG8Ac-/0/1747312556314?e=1752710400&v=beta&t=OHCUi2epl8sNv-v6xjoHVsDd60x0DETWRYoxI8YmIqo">
-<h1 align="center">Hi 👋, I'm Manaheel Jamil</h1>
-<h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBT9rAF0sZcEFEs9AFc0SlgUoomKeUZ87OsA&usqp=CAU">
 
 - 📫 How to reach me **manaheeljamil20@gmail.com**
